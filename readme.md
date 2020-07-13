@@ -1,4 +1,4 @@
-#SEC-EDGAR-DWNLD or SED
+SEC-EDGAR-DWNLD or SED
 
 Use the scripts here to download documents (currently only 10-Ks) off of the SEC's EDGAR database automatically en-masse
 
